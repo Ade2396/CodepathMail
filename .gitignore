@@ -1,0 +1,23 @@
+# Android & IntelliJ
+*.iml
+.gradle/
+local.properties
+/.idea/
+.DS_Store
+
+# Build outputs
+**/build/
+captures/
+externalNativeBuild/
+.cxx/
+
+# Artifacts
+*.apk
+*.ap_
+
+# Keystores
+*.jks
+*.keystore
+
+# Misc
+/.fleet/
